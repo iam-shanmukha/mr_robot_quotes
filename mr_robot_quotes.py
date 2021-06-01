@@ -25,7 +25,6 @@ def build_bubble(quote=""):
     bubble += '\n| {1} |\n {0}'
     return bubble.format("-" * (wrap_limit + 2), " " * wrap_limit, *wrap_list)
 
-
 def main():
     with open(quotes_path, encoding='utf8') as quotes_file:
         quote = random.choice(quotes_file.readlines())
