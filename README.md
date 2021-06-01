@@ -8,7 +8,7 @@ python3.6 mr_robot_quotes.py
 ```
 To get quotes on Terminal startup, modify `.bashrc` file
 ```
-echo "python3.6 mr_robot_quotes.py" >> ~/.bashrc
+echo "python3.6 $(pwd)/mr_robot_quotes.py" >> ~/.bashrc
 source ~/.bashrc
 ```
 # Customization
