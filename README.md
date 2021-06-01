@@ -18,5 +18,7 @@ with open(ascii_path) as ascii_file:
         print(ascii_file.read()
 ```
 - To add or remove quotes, change `/data/quotes` file
+# Contribution
+- Add your favorite quote to `/data/quotes` file and give a pull request
 # Credits
 Inspired from [BobRossQuotes](https://github.com/kz6fittycent/BobRossQuotes)
