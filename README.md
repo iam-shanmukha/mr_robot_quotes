@@ -1,5 +1,8 @@
 # mr_robot_quotes
 A bunch of Mr. Robot Quotes in Terminal
+
+![mr_robot_quotes](https://user-images.githubusercontent.com/50124557/120297907-2f326d80-c2e7-11eb-9342-5f0613df66fa.png)
+
 # Usage
 ```
 git clone https://github.com/iam-shanmukha/mr_robot_quotes.git
